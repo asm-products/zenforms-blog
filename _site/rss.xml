@@ -3,10 +3,10 @@
 <channel>
         <title>zenforms Blog</title>
         <description>zenforms Blog - ZenForms</description>
-        <link>http://username.github.io</link>
-        <link>http://username.github.io</link>
-        <lastBuildDate>2014-11-17T10:40:35-08:00</lastBuildDate>
-        <pubDate>2014-11-17T10:40:35-08:00</pubDate>
+        <link>http://blog.zenforms.co</link>
+        <link>http://blog.zenforms.co</link>
+        <lastBuildDate>2014-11-17T10:57:53-08:00</lastBuildDate>
+        <pubDate>2014-11-17T10:57:53-08:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -15,8 +15,8 @@
                 <description>
 &lt;p&gt;We’re working on Zenforms &lt;a href=&quot;https://assembly.com/zenforms&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
-                <link>http://username.github.io/lessons/2014/11/15/zenforms</link>
-                <guid>http://username.github.io/lessons/2014/11/15/zenforms</guid>
+                <link>http://blog.zenforms.co/lessons/2014/11/15/zenforms</link>
+                <guid>http://blog.zenforms.co/lessons/2014/11/15/zenforms</guid>
                 <pubDate>2014-11-15T00:00:00-08:00</pubDate>
         </item>
 

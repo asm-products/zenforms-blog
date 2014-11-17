@@ -1,11 +1,11 @@
 
-http://username.github.io/archive.html
-http://username.github.io/atom.xml
-http://username.github.io/categories.html
-http://username.github.io/index.html
-http://username.github.io/pages.html
-http://username.github.io/rss.xml
-http://username.github.io/sitemap.txt
-http://username.github.io/tags.html
+http://blog.zenforms.co/archive.html
+http://blog.zenforms.co/atom.xml
+http://blog.zenforms.co/categories.html
+http://blog.zenforms.co/index.html
+http://blog.zenforms.co/pages.html
+http://blog.zenforms.co/rss.xml
+http://blog.zenforms.co/sitemap.txt
+http://blog.zenforms.co/tags.html
 
-http://username.github.io/lessons/2014/11/15/zenforms
+http://blog.zenforms.co/lessons/2014/11/15/zenforms
